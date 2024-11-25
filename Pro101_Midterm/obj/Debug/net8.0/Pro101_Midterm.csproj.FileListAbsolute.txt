@@ -1,0 +1,14 @@
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\bin\Debug\net8.0\Pro101_Midterm.exe
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\bin\Debug\net8.0\Pro101_Midterm.deps.json
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\bin\Debug\net8.0\Pro101_Midterm.runtimeconfig.json
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\bin\Debug\net8.0\Pro101_Midterm.dll
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\bin\Debug\net8.0\Pro101_Midterm.pdb
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\Pro101_Midterm.GeneratedMSBuildEditorConfig.editorconfig
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\Pro101_Midterm.AssemblyInfoInputs.cache
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\Pro101_Midterm.AssemblyInfo.cs
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\Pro101_Midterm.csproj.CoreCompileInputs.cache
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\Pro101_Midterm.dll
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\refint\Pro101_Midterm.dll
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\Pro101_Midterm.pdb
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\Pro101_Midterm.genruntimeconfig.cache
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\ref\Pro101_Midterm.dll
