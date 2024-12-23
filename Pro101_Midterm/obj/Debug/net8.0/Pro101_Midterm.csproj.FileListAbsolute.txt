@@ -12,3 +12,4 @@ d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\refint\Pro101
 d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\Pro101_Midterm.pdb
 d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\Pro101_Midterm.genruntimeconfig.cache
 d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\ref\Pro101_Midterm.dll
+d:\Documents\GitHub\Pro101_Midterm\Pro101_Midterm\obj\Debug\net8.0\Pro101_Midterm.sourcelink.json
